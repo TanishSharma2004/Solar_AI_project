@@ -146,7 +146,7 @@ Based on industry standards:
 }
 ```
 
-## 🚀 Deployment
+## Deployment
 
 ### Local Deployment
 The app runs locally using Streamlit's built-in server.
@@ -170,10 +170,10 @@ OPENROUTER_API_KEY=sk-or-v1-58d048b86346881ec86a4049c40cda42dcdd63d3d1b029608600
 3. Validate AI responses for accuracy
 
 ### Sample Test Images
-- `https://www.shutterstock.com/search/aerial-view-flat-roof` - Typical residential rooftop`
+https://www.shutterstock.com/search/aerial-view-flat-roof` - Typical residential rooftop
 
 ### Sample Test Results
-- `https://www.loom.com/share/d8b5db944e1741888dc16b72b15a0417?sid=4253ff08-353e-411d-83a1-9a4127faee12`
+https://www.loom.com/share/d8b5db944e1741888dc16b72b15a0417?sid=4253ff08-353e-411d-83a1-9a4127faee12
 
 ## Future Enhancements
 
