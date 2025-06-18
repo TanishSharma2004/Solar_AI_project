@@ -1,4 +1,4 @@
-# ☀️ Solar Rooftop Analyzer
+# Solar Rooftop Analyzer
 
 An AI-powered tool that analyzes satellite imagery to assess rooftop solar installation potential, providing comprehensive reports on energy production, costs, and ROI for homeowners and solar professionals.
 
