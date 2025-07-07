@@ -40,7 +40,7 @@ This intelligent system leverages computer vision AI to analyze rooftop satellit
 
 2. **Create virtual environment**
    ```bash
-   # Windows
+   
    python -m venv venv
    venv\Scripts\activate
 
@@ -55,7 +55,7 @@ This intelligent system leverages computer vision AI to analyze rooftop satellit
 4. **Set up environment variables**
    Create a `.env` file in the project root:
    ```env
-   OPENROUTER_API_KEY=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
+   OPENROUTER_API_KEY=your_api_key_here
    ```
 
 5. **Run the application**
